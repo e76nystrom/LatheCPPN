@@ -26,7 +26,6 @@
 .vs/
 cscope*
 Debug/
-ldscripts/
 Middlewares/
 Old/
 startup/
